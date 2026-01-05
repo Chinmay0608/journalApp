@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://chinmay0408:MongO132@cluster0.t34ijqx.mongodb.net/journalDb?retryWrites=true&w=majority&appName=Cluster0
+      uri: mongodb+srv://chinmay####:########cluster0.t34ijqx.mongodb.net/journalDb?retryWrites=true&w=majority&appName=Cluster0
       database: journalDb
       auto-indexed-creation: true
 
