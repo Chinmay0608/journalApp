@@ -10,7 +10,7 @@ mail:
   host: smtp.gmail.com
   port: 587
   username: chinmay8064@gmail.com
-  password: lntd ptmb wvvy ahui
+  password: #### #### #### ####
   properties:
       mail:
         smtp:
